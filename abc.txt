@@ -3,4 +3,4 @@ abcdefg
 1234
 567
 
-room = xxx
+room = yyy
